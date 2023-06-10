@@ -1,0 +1,7 @@
+application:
+  url.prefix: /demo
+  host: http://localhost:8089
+
+logging.level:
+  root: INFO
+  org.springframework: ERROR
